@@ -6,6 +6,7 @@ my frist change
 my new repo
 o fuck
 you are awesome
+this is all i had made
 
 ==================== 
 
