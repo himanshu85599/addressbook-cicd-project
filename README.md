@@ -1,12 +1,6 @@
 THis is the readme content and let me update and we are learning.....updated content
 ##Addressbook Tutoriall lets learn my edit my change change my first jenkinsfilehhhh
-this is the test
-my new changes updated
-my frist change
-my new repo
-o fuck
-you are awesome
-this is all i had made
+
 
 ==================== 
 
