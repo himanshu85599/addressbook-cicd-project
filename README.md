@@ -6,7 +6,7 @@ this is not the way to work
 this is the last time i m with u
 babu
 sona
-tis is what i wanted
+this is what i wanted
 
 
 ==================== 
